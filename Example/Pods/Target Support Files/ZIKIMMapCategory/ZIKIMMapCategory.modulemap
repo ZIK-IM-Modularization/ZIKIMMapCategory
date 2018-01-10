@@ -1,0 +1,6 @@
+framework module ZIKIMMapCategory {
+  umbrella header "ZIKIMMapCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

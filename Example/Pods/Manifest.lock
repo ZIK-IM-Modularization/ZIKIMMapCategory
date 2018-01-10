@@ -1,0 +1,19 @@
+PODS:
+  - CTMediator (12)
+  - ZIKIMMapCategory (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - ZIKIMMapCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ZIKIMMapCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
+  ZIKIMMapCategory: e41f49f6ae47eec51ce33a7fca5b7b82ac491ff1
+
+PODFILE CHECKSUM: 48f1502968729bff6e4f71bbe3b37857ada51865
+
+COCOAPODS: 1.1.1
